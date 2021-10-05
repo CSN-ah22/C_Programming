@@ -13,3 +13,15 @@
 
 ### Compare
 + 비교
+
+### accessibility
++ 접근성
+
+### Continuous evolution
++ 끊임없는 진화
+
+### Concurrent sharing
++ 동시 공유
+
+### Referencing
++ 참조
